@@ -1,0 +1,3 @@
+C:/Users/Tanifor/CLionProjects/3D_Heat_Equation/cmake-build-debug/CMakeFiles/3D_Heat_Equation_.dir
+C:/Users/Tanifor/CLionProjects/3D_Heat_Equation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tanifor/CLionProjects/3D_Heat_Equation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

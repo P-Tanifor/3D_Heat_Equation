@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tanifor/CLionProjects/3D_Heat_Equation/ThreadPool.h
+vector
+-
+queue
+-
+memory
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+future
+-
+functional
+-
+stdexcept
+-
+
+C:/Users/Tanifor/CLionProjects/3D_Heat_Equation/mainThreadPool.cpp
+iostream
+-
+fstream
+-
+vector
+-
+chrono
+-
+cmath
+-
+ThreadPool.h
+C:/Users/Tanifor/CLionProjects/3D_Heat_Equation/ThreadPool.h
+
